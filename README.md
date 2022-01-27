@@ -2,4 +2,4 @@
 
 Projeto de introdução ao React.
 
-<img src="https://github.com/JoaoMarcosJordao/My-Pokedex/issues/1#issue-1116238536" alt="img-pokedex"/>;
+<img src="Screenshot from 2022-01-27 10-45-06.png" alt="img-pokedex"/>;
